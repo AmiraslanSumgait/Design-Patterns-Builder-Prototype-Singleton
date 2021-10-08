@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Design_Pattterns_Builder_Prototype_Singleton_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

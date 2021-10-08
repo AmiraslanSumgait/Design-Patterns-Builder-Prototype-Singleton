@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SingleTon Pattern/1.0.0": {
+        "runtime": {
+          "SingleTon Pattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SingleTon Pattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
